@@ -39,7 +39,7 @@ python test/test_server.py
 ## Структура файлов
 ```
 DnsServer/
-├── src/                   # Исходный код
+├── main/                   # Исходный код
 │   ├── server.py          # Основной модуль сервера
 │   ├── cache.py           # Логика работы с кэшем
 │   ├── dns_packet.py      # Парсинг DNS пакетов
